@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+    --rosa-blush: #f89b7e;
+    --branco-puro: #FFFFFF;
+    --cinza-neutro: #F2F2F2;
+    --preto-suave: #333333;
+    --dourado-suave: #D4AF37;
+}
+
+/* Geral */
+
+
+
